@@ -14,8 +14,3 @@ Once in the cloud, a specific url will be created and upload into your Adalo col
 - Insert Adalo token bearer
 - Insert Adalo url collection
 
-
-
-
-# Adalo
-# Adalo
